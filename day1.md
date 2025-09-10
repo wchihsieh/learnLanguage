@@ -1,2 +1,1 @@
-a apple
-kwieidk
+前言
