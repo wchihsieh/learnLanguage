@@ -1,6 +1,3 @@
-### D4. 主動回憶 (Active Recall)，記憶曲線，及如何使用AI實現
-一些小想法：生成文章or句子挖空，使其回憶(要有prompt範例和截圖操作過程給讀者參考)
-
 # Day4 | 主動回憶與時間曲線，訓練大腦加深印象
 今天讓我們來學習**主動回憶法**
 
@@ -23,33 +20,34 @@
 
 ```
 1. 我正在學習以下這些單字
-牛肉(beef) 豬肉(pork) 雞肉(chicken) 羊肉(lamb) 玉米(corn) 豆子(beans) 生菜(lettuce) 酪梨(avocado) 香蕉(banana) 蘋果(apple) 橙子(orange) 葡萄(grape) 麵包(bread) 米飯(rice) 義大利麵(pasta) 水餃(dumpling) 披薩(pizza) 三明治(sandwich) 漢堡(hamburger) 香腸(sausage) 餅乾(biscuits) 巧克力(chocolate) 薯片(crisps) 珍珠奶茶(Bubble Tea)
-
+牛肉(beef)、豬肉(pork)、雞肉(chicken)、羊肉(lamb)、玉米(corn)、豆子(beans)、生菜(lettuce)、
+酪梨(avocado)、香蕉(banana)、蘋果(apple)、橙子(orange)、葡萄(grape)、麵包(bread)、米飯(rice)、
+義大利麵(pasta)、水餃(dumpling)、披薩(pizza)、三明治(sandwich)、漢堡(hamburger)、香腸(sausage)、
+餅乾(biscuits)、巧克力(chocolate)、薯片(crisps)、珍珠奶茶(Bubble Tea)
 2. 請幫我根據記憶曲綫，設計復習計劃
 3. 同時每次復習時，出3題主動回憶的練習題
 ```
 
-
-<img src="./images/AI-day4-1.png" alt="提供單字" style="width: 60%; max-width: 700px;">
+> 主動將單字內容提供給AI  
+<img src="./images/AI-day4-1" alt="提供單字" style="width: 60%; max-width: 700px;">
 *▲ 提供AI單字內容*
 
+  
 <img src="./images/AI-day4-2.png" alt="答對畫面" style="width: 60%; max-width: 700px;">
 *▲ 答對畫面*
 
+> 答錯題目時，會自動顯示出正確答案，同時保留錯誤答案，可以明確知道錯誤  
 <img src="./images/AI-day4-3.png" alt="答錯畫面" style="width: 60%; max-width: 700px;">
 *▲ 答錯畫面*
 
+> 完成學習卡後會得到剛剛答題(10題)的狀況  
 <img src="./images/AI-day4-4.png" alt="分數" style="width: 60%; max-width: 700px;">
 *▲ 得分狀況*
-
+> 點選”生成更多問題”，可以針對”全部內容”或”錯誤內容” 新增題目(至少新增5題)
 <img src="./images/AI-day4-5.png" alt="更多選擇" style="width: 60%; max-width: 700px;">
 *▲ 更多問題*
 
+> 分析我的學習成效，對於答對的題目得到鼓勵，對於答錯的題目得到可能錯誤的原因，更加強學習方向
+> 可以針對”全部內容”或”錯誤內容”再重新填寫一份學習卡
 <img src="./images/AI-day4-6.png" alt="學習成效分析" style="width: 60%; max-width: 700px;">
 *▲ 學習成效分析*
-
-
-
-
-
-
