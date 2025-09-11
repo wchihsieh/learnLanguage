@@ -30,7 +30,7 @@
 欄位包含：單字, 詞性, 中文解釋, 例句(與主題相關)
 ```
 
-<img src="./images/AI-1.png" alt="主題導向 AI 對話示範" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day3-1.png" alt="主題導向 AI 對話示範" style="width: 60%; max-width: 700px;">
 
 *▲ 實際操作示範：將上述 Prompt 輸入 AI 工具後的對話過程*
 
@@ -40,7 +40,7 @@
 欄位包含：單字, 詞性, 中文解釋, 例句(與主題相關)
 ```
 
-<img src="./images/AI-2.png" alt="對話回顧 AI 對話示範" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day3-2.png" alt="對話回顧 AI 對話示範" style="width: 60%; max-width: 700px;">
 
 *▲ 實際操作示範：將上述 Prompt 輸入 AI 工具後的對話過程*
 
@@ -62,7 +62,7 @@
 ```
 其中"___"輸入要生成圖片的單字。
 
-<img src="./images/AI-3.png" alt="圖片錨點 AI 對話示範" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day3-3.png" alt="圖片錨點 AI 對話示範" style="width: 60%; max-width: 700px;">
 
 *▲ 實際操作示範：將上述 Prompt 輸入 AI 工具後的對話過程*
 
@@ -83,7 +83,7 @@
 ```
 其中"___"輸入與圖片錨點產出圖片相同的的單字。
 
-<img src="./images/AI-4.png" alt="文字錨點 AI 對話示範" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day3-4.png" alt="文字錨點 AI 對話示範" style="width: 60%; max-width: 700px;">
 
 *▲ 實際操作示範：將上述 Prompt 輸入 AI 工具後的對話過程*
 
