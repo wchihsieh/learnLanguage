@@ -26,9 +26,8 @@
 
 👉 **方法一：主題導向 Prompt**
 ```
-請幫我生成 10 個與「第一次去健身房的經歷」相關的英文單字卡，並輸出為 CSV 格式。
-欄位包含：
-Word（單字）, Part of Speech（詞性）, Meaning（中文解釋）, Example Sentence（例句，與主題相關）
+請幫我生成 5 個與「第一次去健身房的經歷」相關的英文單字卡。
+欄位包含：單字, 詞性, 中文解釋, 例句(與主題相關)
 ```
 <img src="./images/AI-1.png" alt="主題導向 AI 對話示範" style="width: 60%; max-width: 700px;">
 
@@ -36,10 +35,8 @@ Word（單字）, Part of Speech（詞性）, Meaning（中文解釋）, Example
 
 👉 **方法二：對話回顧 Prompt**
 ```
-請閱讀我和你之間的對話內容，找出相關的10個重要英文單字。
-請幫我生成單字卡，包含以下欄位：
-Word（單字）, Part of Speech（詞性）, Meaning（中文解釋）, Example Sentence（例句，盡量與對話內容相關）
-請輸出為 CSV 格式。
+請閱讀我和你之間的對話內容，找出相關的5個重要英文單字。
+欄位包含：單字, 詞性, 中文解釋, 例句(與主題相關)
 ```
 <img src="./images/AI-2.png" alt="對話回顧 AI 對話示範" style="width: 60%; max-width: 700px;">
 
