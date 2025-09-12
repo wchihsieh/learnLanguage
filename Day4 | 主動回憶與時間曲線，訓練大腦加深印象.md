@@ -38,9 +38,13 @@
 <img src="./images/AI-day4-2.png" alt="答對畫面" style="width: 60%; max-width: 700px;">
 ▲ 答對畫面
 
+
+
 > 答錯題目時，會自動顯示出正確答案，同時保留錯誤答案，可以明確知道錯誤  
 <img src="./images/AI-day4-3.png" alt="答錯畫面" style="width: 60%; max-width: 700px;">
 ▲ 答錯畫面
+
+
 
 > 完成學習卡後會得到剛剛答題(10題)的狀況  
 <img src="./images/AI-day4-4.png" alt="分數" style="width: 60%; max-width: 700px;">
@@ -52,10 +56,14 @@
 <img src="./images/AI-day4-5.png" alt="更多選擇" style="width: 60%; max-width: 700px;">
 ▲ 更多問題
 
+
+
 > 分析我的學習成效，對於答對的題目得到鼓勵，對於答錯的題目得到可能錯誤的原因，更加強學習方向
 > 可以針對”全部內容”或”錯誤內容”再重新填寫一份學習卡
 <img src="./images/AI-day4-6.png" alt="學習成效分析" style="width: 60%; max-width: 700px;">
 ▲ 學習成效分析
+
+
 
 
 **方法二請AI生成單字**
@@ -68,20 +76,27 @@
 <img src="./images/AI-DAy4 -7.png" alt="AI生成單字" style="width: 60%; max-width: 700px;">
 ▲ AI生成單字
 
+
+
 > 如何使用練習卡進行複習
 <img src="./images/AI-day4-8.png" alt="練習複習卡" style="width: 60%; max-width: 700px;">
+▲ AI建議練習方式
+
 
 ## 第二部分：填空遊戲(以文章為例)
 <img src="./images/AI-DAy4 -10.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 ▲ 提供文章 
 
 
+
 <img src="./images/AI-DAy4 -9.png" alt="AI生成文章" style="width: 60%; max-width: 700px;">
 ▲ AI生成文章
 
+
+
 ## 第三部分：時間曲線回憶設定
 ```
-請AI記錄學習成效，制定複習計畫
+請記錄我的學習成效，以今天危基礎(Day0)，配合時間曲線，制定複習計畫
 ```
 <img src="./images/AI-DAy4 -11.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 <img src="./images/AI-DAy4 -12.png" alt="提供文章" style="width: 60%; max-width: 700px;">
