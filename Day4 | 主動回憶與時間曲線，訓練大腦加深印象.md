@@ -65,14 +65,14 @@
 3. 同時每次復習時，出3題主動回憶的練習題
 4. 製作成問答式式練習卡
 ```
-<img src="./images/AI-day4-7.png" alt="AI生成單字" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4 -7.png" alt="AI生成單字" style="width: 60%; max-width: 700px;">
 ▲ AI生成單字
 
 > 如何使用練習卡進行複習
 <img src="./images/AI-day4-8.png" alt="練習複習卡" style="width: 60%; max-width: 700px;">
 
 ## 第二部分：填空遊戲(以文章為例)
-<img src="./images/AI-day4 -10.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-DAy4 -10.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 ▲ 提供文章 
 
 
@@ -83,8 +83,8 @@
 ```
 請AI記錄學習成效，制定複習計畫
 ```
-<img src="./images/AI-day4 -11.png" alt="提供文章" style="width: 60%; max-width: 700px;">
-<img src="./images/AI-day4 -12.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-DAy4 -11.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-DAy4 -12.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 
 ## 結語
 主動回憶法結合時間曲線的好處：
