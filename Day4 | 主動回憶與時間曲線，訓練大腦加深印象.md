@@ -30,7 +30,7 @@
 
 > 主動將單字內容提供給AI  
 <img src="./images/AI-day4-1.png" alt="提供單字" style="width: 60%; max-width: 700px;">
-*▲ 提供AI單字內容*
+▲ 提供AI單字內容
 
 
 
