@@ -65,7 +65,7 @@
 3. 同時每次復習時，出3題主動回憶的練習題
 4. 製作成問答式式練習卡
 ```
-<img src="./images/AI-day4 -7.png" alt="AI生成單字" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-DAy4 -7.png" alt="AI生成單字" style="width: 60%; max-width: 700px;">
 ▲ AI生成單字
 
 > 如何使用練習卡進行複習
@@ -76,7 +76,7 @@
 ▲ 提供文章 
 
 
-<img src="./images/AI-day4 -9.png" alt="AI生成文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-DAy4 -9.png" alt="AI生成文章" style="width: 60%; max-width: 700px;">
 ▲ AI生成文章
 
 ## 第三部分：時間曲線回憶設定
