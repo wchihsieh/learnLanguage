@@ -29,8 +29,10 @@
 ```
 
 > 主動將單字內容提供給AI  
-<img src="./images/AI-day4-1" alt="提供單字" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4-1.png" alt="提供單字" style="width: 60%; max-width: 700px;">
 *▲ 提供AI單字內容*
+
+
 
   
 <img src="./images/AI-day4-2.png" alt="答對畫面" style="width: 60%; max-width: 700px;">
@@ -66,19 +68,19 @@
 <img src="./images/AI-day4-8.png" alt="練習複習卡" style="width: 60%; max-width: 700px;">
 
 ## 第二部分：填空遊戲(以文章為例)
-<img src="./images/AI-day4-10.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4 -10.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 *▲ 提供文章 *
 
 
-<img src="./images/AI-day4-9.png" alt="AI生成文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4 -9.png" alt="AI生成文章" style="width: 60%; max-width: 700px;">
 *▲ AI生成文章*
 
 ## 第三部分：時間曲線回憶設定
 ```
 請AI記錄學習成效，制定複習計畫
 ```
-<img src="./images/AI-day4-11.png" alt="提供文章" style="width: 60%; max-width: 700px;">
-<img src="./images/AI-day4-12.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4 -11.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4 -12.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 
 ##結語
 主動回憶法結合時間曲線的好處：
