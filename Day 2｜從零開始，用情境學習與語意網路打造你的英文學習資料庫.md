@@ -80,6 +80,7 @@
 <img src="./images/AI-day2-4.png" alt="主題導向 AI 對話示範" style="width: 60%; max-width: 700px;">
 <img src="./images/AI-day2-5.png" alt="主題導向 AI 對話示範" style="width: 60%; max-width: 700px;">
 <img src="./images/AI-day2-6.png" alt="主題導向 AI 對話示範" style="width: 60%; max-width: 700px;">
+
 *▲ 語意網路 AI 對話示範*
 
 ## 兩者的搭配：從「0 到 1」到「1 到 N」
