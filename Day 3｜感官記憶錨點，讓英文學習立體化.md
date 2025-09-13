@@ -27,7 +27,7 @@
 
 > 於第一部分產出的五個單字中挑選一個，放入"___"。  
 > 
-> **範例：** dumbbell
+> **範例：** dumbbell (啞鈴)
 
 <img src="./images/AI-day3-1.png" alt="圖片錨點 AI 對話示範" style="width: 60%; max-width: 700px;">
 
@@ -52,7 +52,7 @@
 
 > 其中"___"放入與第二部分/步驟一相同的的單字。    
 > 
-> **範例：** dumbbell
+> **範例：** dumbbell (啞鈴)
 
 <img src="./images/AI-day3-2.png" alt="文字錨點 AI 對話示範" style="width: 60%; max-width: 700px;">
 
