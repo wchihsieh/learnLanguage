@@ -78,7 +78,7 @@
 3. 同時每次復習時，出3題主動回憶的練習題
 4. 製作成問答式式練習卡
 ```
-<img src="./images/AI-day44 -7.png" alt="AI生成單字" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day44-7.png" alt="AI生成單字" style="width: 60%; max-width: 700px;">
 
 ▲ AI生成單字
 
@@ -91,11 +91,11 @@
 
 ## 第二部分：填空遊戲(以文章為例)
 
-<img src="./images/AI-day44 -10.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day44-10.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 
 ▲ 提供文章 
 
-<img src="./images/AI-day44 -9.png" alt="AI生成文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day44-9.png" alt="AI生成文章" style="width: 60%; max-width: 700px;">
 
 ▲ AI生成文章
 
@@ -104,9 +104,9 @@
 ```
 請記錄我的學習成效，以今天危基礎(Day0)，配合時間曲線，制定複習計畫
 ```
-<img src="./images/AI-day44 -11.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day44-11.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 
-<img src="./images/AI-day44 -12.png" alt="提供文章" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day44-12.png" alt="提供文章" style="width: 60%; max-width: 700px;">
 
 ## 結語
 主動回憶法結合時間曲線的好處：
