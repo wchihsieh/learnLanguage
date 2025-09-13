@@ -35,7 +35,7 @@
 > 
 > **範例：** 第一次去健身房的經歷
 
-<img src="./images/AI-day3-1.png" alt="主題導向 AI 對話示範" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day2-1.png" alt="主題導向 AI 對話示範" style="width: 60%; max-width: 700px;">
 
 ---
 
