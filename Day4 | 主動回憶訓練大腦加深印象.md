@@ -30,26 +30,26 @@ gym(健身房)、treadmill(跑步機)、dumbbell(啞鈴)、stretch(伸展)、sor
 
 並直接開始測驗，不須告訴我題目內容
 ```
-<img src="./images/AI-day-2.png" alt="提供AI單字，製作學習卡測驗" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4-1.png" alt="提供AI單字，製作學習卡測驗" style="width: 60%; max-width: 700px;">
 
 *▲ 提供AI單字，製作單字卡測驗*
 
-<img src="./images/AI-day-3.png" alt="單字卡測驗-答對畫面" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4-2.png" alt="單字卡測驗-答對畫面" style="width: 60%; max-width: 700px;">
 
 *▲ 單字卡測驗-答對畫面*
 
-<img src="./images/AI-day-4.png" alt="單字卡測驗-答錯畫面" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4-3.png" alt="單字卡測驗-答錯畫面" style="width: 60%; max-width: 700px;">
 
 *▲ 單字卡測驗-答錯畫面*
 
 > 答錯題目時，會自動顯示出正確答案，同時保留錯誤答案，可以明確知道錯誤
 >
-<img src="./images/AI-day-5.png" alt="完成學習卡後會得到剛剛答題(10題)的狀況" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4-4.png" alt="完成學習卡後會得到剛剛答題(10題)的狀況" style="width: 60%; max-width: 700px;">
 
 > 點選圖片紅框中的「分析我的學習成效」
 >
 
-<img src="./images/AI-day-6.png" alt="完成學習卡後會得到剛剛答題(10題)的狀況" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4-5.png" alt="完成學習卡後會得到剛剛答題(10題)的狀況" style="width: 60%; max-width: 700px;">
 
 *▲ 完成學習卡後會得到剛剛答題(10題)的狀況*
 
@@ -69,7 +69,7 @@ gym(健身房)、treadmill(跑步機)、dumbbell(啞鈴)、stretch(伸展)、sor
 4. 提供單字選項但順序打亂  
 5. 完成後請檢查答案並給予回饋    
 ```
-<img src="./images/AI-day-7.png" alt="提供AI單字，製作短文測驗" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day4-6.png" alt="提供AI單字，製作短文測驗" style="width: 60%; max-width: 700px;">
 
 *▲ 提供AI單字，製作短文測驗*
 
