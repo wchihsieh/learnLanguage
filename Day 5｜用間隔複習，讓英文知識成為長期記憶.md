@@ -41,25 +41,20 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 
 #### 步驟二：AI 自動化製作學習卡組
 
-我們直接用前面學習的健身房單字來示範自動化流程：
+我們直接用day2的健身房單字表來示範自動化流程：
 
-**原始單字表**：
-| 單字 | 詞性 | 中文解釋 | 例句 | 例句中文 |
-|------|------|----------|------|----------|
-| gym | noun | 健身房 | I felt a bit shy when I walked into the gym for the first time. | 第一次走進健身房時，我覺得有點羞澀。 |
-| treadmill | noun | 跑步機 | I warmed up on the treadmill before trying other exercises. | 在嘗試其他運動之前，我先在跑步機上熱身。 |
-| dumbbell | noun | 啞鈴 | The trainer showed me how to hold a dumbbell properly. | 教練教我如何正確握啞鈴。 |
-| stretch | verb | 伸展 | I stretched my arms and legs to prepare for the workout. | 我伸展手臂來為運動做準備。 |
-| sore | adjective | 痠痛的 | The next morning, my muscles were sore from lifting weights. | 隔天早上，我的肌肉因舉重而痠痛。 |
+<img src="./images/AI-day5-2.png" alt="day2的健身房單字表" style="width: 60%; max-width: 700px;">
+
+*▲ day2的健身房單字表*
 
 #### 步驟三：讓 AI 轉換成 Anki CSV 格式
 
 #### 👉 實際可用的 Prompt 範本：
 
-```
-請將以下單字表轉換成 Anki CSV 格式：
+> 貼上day2的健身房單字表圖片後，輸入以下Prompt
 
-[貼上上面的單字表]
+```
+請將圖片中的單字表轉換成 Anki CSV 格式：
 
 CSV 格式要求：
 欄位：正面,背面
@@ -69,13 +64,9 @@ CSV 格式要求：
 請直接輸出可複製的CSV格式。
 ```
 
-**AI 輸出範例**：
-```csv
-正面,背面
-gym,"**Gym** /dʒɪm/ (noun) 健身房<br><br>💪 例句：I felt a bit shy when I walked into the gym for the first time.<br>中文：第一次走進健身房時，我覺得有點羞澀。<br><br>🔗 相關：fitness center, workout, exercise, trainer"
-treadmill,"**Treadmill** /ˈtrɛdˌmɪl/ (noun) 跑步機<br><br>🏃 例句：I warmed up on the treadmill before trying other exercises.<br>中文：在嘗試其他運動之前，我先在跑步機上熱身。<br><br>🔗 相關：running, cardio, warm-up, belt"
-dumbbell,"**Dumbbell** /ˈdʌmˌbɛl/ (noun) 啞鈴<br><br>💪 例句：The trainer showed me how to hold a dumbbell properly.<br>中文：教練教我如何正確握啞鈴。<br><br>🔗 相關：barbell, weights, lifting, curl"
-```
+<img src="./images/AI-day5-3.png" alt="AI 輸出 CSV 檔案" style="width: 60%; max-width: 700px;">
+
+*▲ AI 輸出 CSV 檔案*
 
 #### 步驟四：一鍵匯入 Anki
 
