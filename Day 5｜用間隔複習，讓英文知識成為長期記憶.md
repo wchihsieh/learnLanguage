@@ -89,7 +89,7 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
     *▲ 註冊 AnkiWeb 帳號*
    
 3. 在手機上下載 AnkiMobile（iOS）或 AnkiDroid（Android）  
-   > 請注意 iOS 下載 Anki 需要付費使用，請自行斟酌
+   > 請注意 iOS 下載 Anki APP 需要付費使用，請自行斟酌
 
 
 #### 步驟四：一鍵匯入 Anki
