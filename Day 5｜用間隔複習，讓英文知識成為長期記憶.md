@@ -6,7 +6,7 @@
 
 **記憶曲線**由德國心理學家 Hermann Ebbinghaus 在 1885 年提出，描述人類學習後記憶的自然衰退規律。它揭示了一個關鍵事實：記憶在最初幾天衰退最快，之後逐漸趨緩。
 
-<img src="./images/AI-day5-1.png" alt="Hermann Ebbinghaus記憶曲線圖" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day5-1.png" alt="Hermann Ebbinghaus記憶曲線圖" style="width: 40%; max-width: 700px;">
 
 *▲ Hermann Ebbinghaus記憶曲線圖*
 
