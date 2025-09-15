@@ -39,6 +39,8 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 2. 註冊 AnkiWeb 帳號（用於同步）
 3. 在手機上下載 AnkiMobile（iOS）或 AnkiDroid（Android）
 
+> 請注意 iOS 下載 Anki 需要付費使用，請自行斟酌
+
 #### 步驟二：AI 自動化製作學習卡組
 
 我們直接用day2的健身房單字表來示範自動化流程：
@@ -59,12 +61,13 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 CSV 格式要求：
 欄位：正面,背面
 - 正面：英文單字
-- 背面：完整資訊（音標+詞性+中文+例句+語意網路相關單字）
+- 背面：完整資訊（音標+詞性+中文+例句+例句中文）
 
 請直接輸出可複製的CSV格式。
 ```
 
 <img src="./images/AI-day5-3.png" alt="AI 輸出 CSV 檔案" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day5-4.png" alt="AI 輸出 CSV 檔案" style="width: 60%; max-width: 700px;">
 
 *▲ AI 輸出 CSV 檔案*
 
