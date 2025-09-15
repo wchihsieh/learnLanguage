@@ -80,7 +80,7 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
     *▲ AnkiWeb 下載步驟*
 
 2. 註冊 AnkiWeb 帳號
-   > 以便未來能在網頁與行動裝置間進行同步使用
+   > 以便未來能在網頁、電腦與行動裝置間進行同步使用
    <img src="./images/AI-day5-7.png" alt="註冊 AnkiWeb 帳號" style="width: 60%; max-width: 700px;">
    
    > 若過去未註冊過帳號，先點選同步，再點選註冊。
