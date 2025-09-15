@@ -99,10 +99,10 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 3. 打開 Anki，點選「檔案 → 匯入」
    
    <img src="./images/AI-day5-8.png" alt="點選匯入" style="width: 60%; max-width: 700px;">
-5. 選擇 CSV 檔案，確認欄位對應正確
+4. 選擇 CSV 檔案
    
    <img src="./images/AI-day5-9.png" alt="選擇 CSV 檔案" style="width: 60%; max-width: 700px;">
-7. 點選「匯入」完成！
+5. 確認欄位對應正確，點選「匯入」完成！
    
    <img src="./images/AI-day5-10.png" alt="匯入" style="width: 60%; max-width: 700px;">
    <img src="./images/AI-day5-11.png" alt="進入牌組開始執行測驗" style="width: 60%; max-width: 700px;">
