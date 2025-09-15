@@ -105,9 +105,9 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 5. 確認欄位對應正確，點選「匯入」完成！
    
    <img src="./images/AI-day5-10.png" alt="匯入" style="width: 60%; max-width: 700px;">
-   <img src="./images/AI-day5-11.png" alt="進入牌組開始執行測驗" style="width: 60%; max-width: 700px;">
+6. 進入牌組開始執行測驗
    
-   *▲ 進入牌組開始執行測驗*
+   <img src="./images/AI-day5-11.png" alt="進入牌組開始執行測驗" style="width: 60%; max-width: 700px;">
 
 #### 步驟五：Anki 如何實現自動化記憶曲線
 
