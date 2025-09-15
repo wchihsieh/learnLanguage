@@ -33,15 +33,7 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 
 ### Anki 實作步驟
 
-#### 步驟一：下載與安裝 Anki
-
-1. 到官網 [ankiweb.net](https://ankiweb.net) 下載軟體
-2. 註冊 AnkiWeb 帳號（用於同步）
-3. 在手機上下載 AnkiMobile（iOS）或 AnkiDroid（Android）
-
-> 請注意 iOS 下載 Anki 需要付費使用，請自行斟酌
-
-#### 步驟二：AI 自動化製作學習卡組
+#### 步驟一：AI 自動化製作學習卡組
 
 我們直接用day2的健身房單字表來示範自動化流程：
 
@@ -49,21 +41,23 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 
 *▲ day2的健身房單字表*
 
-#### 步驟三：讓 AI 轉換成 Anki CSV 格式
+#### 步驟二：讓 AI 轉換成 Anki CSV 格式
 
 #### 👉 實際可用的 Prompt 範本：
 
 > 貼上day2的健身房單字表圖片後，輸入以下Prompt
 
 ```
-請將圖片中的單字表轉換成 Anki CSV 格式：
-
-CSV 格式要求：
-欄位：正面,背面
-- 正面：英文單字
-- 背面：完整資訊（音標+詞性+中文+例句+例句中文）
-
-請直接輸出可複製的CSV格式。
+請將圖片中的單字表轉換成 Anki 匯入格式 (CSV)：  
+  
+格式要求：  
+- 每行代表一張卡片  
+- 使用 Tab 作為分隔符（不是逗號)  
+- 不要輸出標頭列  
+- 第一欄（正面）：英文單字  
+- 第二欄（背面）：完整資訊（音標 + 詞性 + 中文 + 例句 + 例句中文）  
+  
+請直接輸出可複製的 CSV 格式（例如：word[TAB]背面內容）。  
 ```
 
 <img src="./images/AI-day5-3.png" alt="AI 輸出 CSV 檔案" style="width: 60%; max-width: 700px;">
@@ -71,17 +65,57 @@ CSV 格式要求：
 
 *▲ AI 輸出 CSV 檔案*
 
+#### 步驟三：下載與安裝 Anki
+
+1. 到官網 [ankiweb.net](https://ankiweb.net) 下載軟體
+   
+    <img src="./images/AI-day5-5.png" alt="AnkiWeb 下載步驟" style="width: 60%; max-width: 700px;">
+
+    > 點選 Download 之後，選取自己的電腦版本，並執行下載。
+
+    <img src="./images/AI-day5-6.png" alt="AnkiWeb 下載步驟" style="width: 60%; max-width: 700px;">
+
+    > 點開.exe後會出現以上視窗，請在圖片註記的地方點選Enter，系統將會開始執行下載動作。
+
+    *▲ AnkiWeb 下載步驟*
+
+2. 註冊 AnkiWeb 帳號
+   > 以便未來能在網頁與行動裝置間進行同步使用
+   <img src="./images/AI-day5-7.png" alt="註冊 AnkiWeb 帳號" style="width: 60%; max-width: 700px;">
+   
+   > 若過去未註冊過帳號，先點選同步，再點選註冊。
+   >
+   
+    *▲ 註冊 AnkiWeb 帳號*
+   
+3. 在手機上下載 AnkiMobile（iOS）或 AnkiDroid（Android）  
+   > 請注意 iOS 下載 Anki 需要付費使用，請自行斟酌
+
+
 #### 步驟四：一鍵匯入 Anki
 
 1. 複製 AI 生成的 CSV 內容
 2. 貼到記事本並存成「健身房英文.csv」
 3. 打開 Anki，點選「檔案 → 匯入」
-4. 選擇 CSV 檔案，確認欄位對應正確
-5. 點選「匯入」完成！
+   
+   <img src="./images/AI-day5-8.png" alt="點選匯入" style="width: 60%; max-width: 700px;">
+5. 選擇 CSV 檔案，確認欄位對應正確
+   
+   <img src="./images/AI-day5-9.png" alt="選擇 CSV 檔案" style="width: 60%; max-width: 700px;">
+7. 點選「匯入」完成！
+   
+   <img src="./images/AI-day5-10.png" alt="匯入" style="width: 60%; max-width: 700px;">
+   <img src="./images/AI-day5-11.png" alt="進入牌組開始執行測驗" style="width: 60%; max-width: 700px;">
+   
+   *▲ 進入牌組開始執行測驗*
 
 #### 步驟五：Anki 如何實現自動化記憶曲線
 
 當你開始使用 Anki 後，系統會根據你的回答表現自動調整複習時間：
+
+<img src="./images/AI-day5-12.png" alt="根據你的回答表現自動調整複習時間" style="width: 60%; max-width: 700px;">
+
+*▲ 根據你的回答表現自動調整複習時間*
 
 **自動化機制**：
 - **答對「簡單」**：間隔拉長更多（例：3天 → 1週）
@@ -109,6 +143,9 @@ CSV 格式要求：
 - 填空版：I warmed up on the {{c1::treadmill}} before trying other exercises.
 
 **語音練習**：Anki 支援錄音功能，可以錄下正確發音或自己的練習音檔。
+
+> 
+> 透過這些進階功能，你可以在 Anki 中同時運用圖像記憶錨點、主動回憶填空練習，以及聽覺記憶錨點，讓一張卡片整合我們學過的多種科學方法，達到學習效果的最大化。
 
 ---
 
