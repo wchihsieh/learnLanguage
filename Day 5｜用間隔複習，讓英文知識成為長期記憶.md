@@ -33,39 +33,7 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 
 ### Anki 實作步驟
 
-#### 步驟一：AI 自動化製作學習卡組
-
-我們直接用day2的健身房單字表來示範自動化流程：
-
-<img src="./images/AI-day5-2.png" alt="day2的健身房單字表" style="width: 60%; max-width: 700px;">
-
-*▲ day2的健身房單字表*
-
-#### 步驟二：讓 AI 轉換成 Anki CSV 格式
-
-#### 👉 實際可用的 Prompt 範本：
-
-> 貼上day2的健身房單字表圖片後，輸入以下Prompt
-
-```
-請將圖片中的單字表轉換成 Anki 匯入格式 (CSV)：  
-  
-格式要求：  
-- 每行代表一張卡片  
-- 使用 Tab 作為分隔符（不是逗號)  
-- 不要輸出標頭列  
-- 第一欄（正面）：英文單字  
-- 第二欄（背面）：完整資訊（音標 + 詞性 + 中文 + 例句 + 例句中文）  
-  
-請直接輸出可複製的 CSV 格式（例如：word[TAB]背面內容）。  
-```
-
-<img src="./images/AI-day5-3.png" alt="AI 輸出 CSV 檔案" style="width: 60%; max-width: 700px;">
-<img src="./images/AI-day5-4.png" alt="AI 輸出 CSV 檔案" style="width: 60%; max-width: 700px;">
-
-*▲ AI 輸出 CSV 檔案*
-
-#### 步驟三：下載與安裝 Anki
+#### 步驟一：下載與安裝 Anki
 
 1. 到官網 [ankiweb.net](https://ankiweb.net) 下載軟體
    
@@ -91,6 +59,37 @@ Anki 是一個基於間隔重複算法的記憶卡軟體，它會根據你每次
 3. 在手機上下載 AnkiMobile（iOS）或 AnkiDroid（Android）  
    > 請注意 iOS 下載 Anki APP 需要付費使用，請自行斟酌
 
+#### 步驟二：AI 自動化製作學習卡組
+
+我們直接用day2的健身房單字表來示範自動化流程：
+
+<img src="./images/AI-day5-2.png" alt="day2的健身房單字表" style="width: 60%; max-width: 700px;">
+
+*▲ day2的健身房單字表*
+
+#### 步驟三：讓 AI 轉換成 Anki CSV 格式
+
+#### 👉 實際可用的 Prompt 範本：
+
+> 貼上day2的健身房單字表圖片後，輸入以下Prompt
+
+```
+請將圖片中的單字表轉換成 Anki 匯入格式 (CSV)：  
+  
+格式要求：  
+- 每行代表一張卡片  
+- 使用 Tab 作為分隔符（不是逗號)  
+- 不要輸出標頭列  
+- 第一欄（正面）：英文單字  
+- 第二欄（背面）：完整資訊（音標 + 詞性 + 中文 + 例句 + 例句中文）  
+  
+請直接輸出可複製的 CSV 格式（例如：word[TAB]背面內容）。  
+```
+
+<img src="./images/AI-day5-3.png" alt="AI 輸出 CSV 檔案" style="width: 60%; max-width: 700px;">
+<img src="./images/AI-day5-4.png" alt="AI 輸出 CSV 檔案" style="width: 60%; max-width: 700px;">
+
+*▲ AI 輸出 CSV 檔案*
 
 #### 步驟四：一鍵匯入 Anki
 
